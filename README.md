@@ -24,10 +24,10 @@ Barberoji is the fix. I mapped how the business actually works, turned it into e
 
 The system is in Hebrew (right to left). All figures are synthetic.
 
-| Home (November) | Finance (October) |
+| Home (October) | Finance (October) |
 |---|---|
 | <img src="https://barberoji-demo.lovable.app/screenshots/home.png" alt="Home screen"> | <img src="https://barberoji-demo.lovable.app/screenshots/finance.png" alt="Finance screen"> |
-| Break-even progress, open tasks, pending leads, active cohorts | Monthly P&L, VAT, payroll, what is left for the owner |
+| Month selector, break-even progress, open tasks, pending leads | Monthly P&L, VAT, payroll, what is left for the owner |
 
 | Barbershop (October) | Academy (November) |
 |---|---|
