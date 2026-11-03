@@ -26,7 +26,7 @@ The system is in Hebrew (right to left). All figures are synthetic.
 
 | Home (October) | Finance (October) |
 |---|---|
-| <img src="https://barberoji-demo.lovable.app/screenshots/home.png" alt="Home screen"> | <img src="https://barberoji-demo.lovable.app/screenshots/finance.png" alt="Finance screen"> |
+| <img src="https://barberoji-demo.lovable.app/screenshots/home.png?v=2" alt="Home screen"> | <img src="https://barberoji-demo.lovable.app/screenshots/finance.png" alt="Finance screen"> |
 | Month selector, break-even progress, open tasks, pending leads | Monthly P&L, VAT, payroll, what is left for the owner |
 
 | Barbershop (October) | Academy (November) |
