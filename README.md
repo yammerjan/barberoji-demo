@@ -8,7 +8,17 @@ Live demo: https://barberoji-demo.lovable.app
 
 ## The problem
 
-A small business ran on spreadsheets and memory: nobody could say quickly how much profit was left after VAT, barber revenue shares, bonuses and personal obligations, or whether the month was on track to break even. I mapped the process, defined the business rules and had the system built around them.
+The barbershop and its academy ran the way most small barbershops still do: no management system at all. Revenue, payroll, expenses, leads and course enrolments lived in a paper notebook and in phone messages. Nothing connected them, so the owner could not answer the basic questions of running a business:
+
+* How much does the business really earn, and from which source: haircuts, courses or products?
+* Where is money leaving for no good reason?
+* Which marketing spend actually brings in students, and what does one enrolled student cost?
+* What is truly left after VAT, barber revenue shares, bonuses and personal obligations?
+* Is this month on track to break even, and which barber is worth pushing to hit higher targets?
+
+Without those answers, decisions were made on gut feeling and the real profit was only discovered, if ever, after the month had ended. This was not a software problem. It was a management problem: no visibility, no tracking of tasks, leads or marketing, and no way to organise services, products and staff in one place.
+
+Barberoji is the fix. I mapped how the business actually works, turned it into explicit rules (VAT, revenue splits, bonuses, break-even), and built one system where every shekel, lead, student and shift is recorded once and the numbers that matter are calculated automatically.
 
 ## What it does
 
