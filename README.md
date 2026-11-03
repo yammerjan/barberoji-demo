@@ -1,8 +1,8 @@
-# Barberoji — barbershop management system (read-only demo)
+# Barberoji: barbershop management system (read-only demo)
 
-A management system I designed for a real men's barbershop and barbering academy, covering finance, payroll, courses, invoices, leads, marketing and personal management. This repository documents the **demo version**, which runs on **fully synthetic data** (Sep–Nov 2026) and is **read-only**, so anyone can explore it safely.
+A management system I designed for a real men's barbershop and barbering academy, covering finance, payroll, courses, invoices, leads, marketing and personal management. This repository documents the demo version, which runs on fully synthetic data (Sep–Nov 2026) and is read-only, so anyone can explore it safely.
 
-**Live demo:** https://barberoji-demo.lovable.app
+Live demo: https://barberoji-demo.lovable.app
 
 > The data is invented. The structure, screens and business rules follow the real system, but no figure here comes from the real business.
 
@@ -36,7 +36,7 @@ A small business ran on spreadsheets and memory: nobody could say quickly how mu
 
 TanStack Start + TypeScript + Tailwind/shadcn UI, Supabase (PostgreSQL) with row-level security. Built with Lovable and Claude; the process design, rules, validation and test data are mine.
 
-**Read-only demo mode:** restrictive RLS policies block writes for the demo user, and a client-side guard returns a clear "demo" message instead of silently failing. A fixed demo clock makes "today" 12 Nov 2026, so the numbers never go stale.
+Read-only demo mode: restrictive RLS policies block writes for the demo user, and a client-side guard returns a clear "demo" message instead of silently failing. A fixed demo clock makes "today" 12 Nov 2026, so the numbers never go stale.
 
 ## Quality checks
 
@@ -47,4 +47,4 @@ Before publishing, I audited the demo in a headless browser for every tab and mo
 [`barbershop-analytics`](https://github.com/yammerjan/barbershop-analytics): Python + SQL notebook that analyses the same demo data (break-even, barber contribution, lead conversion with a permutation test, Monte Carlo forecast).
 
 ---
-*Yam Merjan — Industrial Engineering & Management student.*
+Yam Merjan, Industrial Engineering and Management student.
