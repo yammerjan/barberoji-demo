@@ -20,6 +20,24 @@ Without those answers, decisions were made on gut feeling and the real profit wa
 
 Barberoji is the fix. I mapped how the business actually works, turned it into explicit rules (VAT, revenue splits, bonuses, break-even), and built one system where every shekel, lead, student and shift is recorded once and the numbers that matter are calculated automatically.
 
+## Screenshots
+
+The system is in Hebrew (right to left). All figures are synthetic.
+
+| Home (November) | Finance (October) |
+|---|---|
+| <img src="https://barberoji-demo.lovable.app/screenshots/home.png" alt="Home screen"> | <img src="https://barberoji-demo.lovable.app/screenshots/finance.png" alt="Finance screen"> |
+| Break-even progress, open tasks, pending leads, active cohorts | Monthly P&L, VAT, payroll, what is left for the owner |
+
+| Barbershop (October) | Academy (November) |
+|---|---|
+| <img src="https://barberoji-demo.lovable.app/screenshots/barbershop.png" alt="Barbershop screen"> | <img src="https://barberoji-demo.lovable.app/screenshots/academy.png" alt="Academy screen"> |
+| Owner's net after bonuses and extras, per-barber targets | Course cohorts, students, course income |
+
+<img src="https://barberoji-demo.lovable.app/screenshots/marketing.png" alt="Marketing screen" width="60%">
+
+Marketing: spend by channel and cost per enrolled student.
+
 ## What it does
 
 | Area | What the owner sees |
