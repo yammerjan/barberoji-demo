@@ -34,9 +34,10 @@ The system is in Hebrew (right to left). All figures are synthetic.
 | <img src="https://barberoji-demo.lovable.app/screenshots/barbershop.png" alt="Barbershop screen"> | <img src="https://barberoji-demo.lovable.app/screenshots/academy.png" alt="Academy screen"> |
 | Owner's net after bonuses and extras, per-barber targets | Course cohorts, students, course income |
 
-<img src="https://barberoji-demo.lovable.app/screenshots/marketing.png" alt="Marketing screen" width="60%">
-
-Marketing: spend by channel and cost per enrolled student.
+| Marketing (October) |
+|---|
+| <img src="https://barberoji-demo.lovable.app/screenshots/marketing.png" alt="Marketing screen" width="60%"> |
+| Spend by channel, cost per enrolled student, content ideas and shoot days |
 
 ## What it does
 
@@ -48,7 +49,7 @@ Marketing: spend by channel and cost per enrolled student.
 | Academy | Beginner/advanced cohorts (one start date per cohort), students, capacity, course revenue |
 | Leads | Pipeline by source; pending = new / cooled / follow-up / call scheduled |
 | Marketing | Spend by channel, cost per enrolled student, content ideas |
-| Invoices | Invoices pending to send, per month |
+| Invoices | Upload invoices (photo or file) and track which are pending, per month. Pending invoices are emailed to the accountant automatically on the 30th of each month at 09:00 (last day of the month in February), and marked as sent |
 | Personal | Weekly habit metrics (out of 7) and a self-score |
 
 ## Business rules (the part I designed)
