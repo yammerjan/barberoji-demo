@@ -18,7 +18,7 @@ The barbershop and its academy ran the way most small barbershops still do: no m
 
 Without those answers, decisions were made on gut feeling and the real profit was only discovered, if ever, after the month had ended. This was not a software problem. It was a management problem: no visibility, no tracking of tasks, leads or marketing, and no way to organise services, products and staff in one place.
 
-Barberoji is the fix. I mapped how the business actually works, turned it into explicit rules (VAT, revenue splits, bonuses, break-even), and built one system where every shekel, lead, student and shift is recorded once and the numbers that matter are calculated automatically.
+Barberoji is the fix. I mapped how the business actually works, turned it into explicit rules (VAT, revenue splits, bonuses, break-even), and built one system where every shekel, lead, student and barber's weekly haircut count is recorded once and the numbers that matter are calculated automatically.
 
 ## Screenshots
 
