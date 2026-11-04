@@ -71,9 +71,5 @@ Read-only demo mode: restrictive RLS policies block writes for the demo user, an
 
 Before publishing, I audited the demo in a headless browser for every tab and month: figures vs. the database, no console errors, Excel export and print report reconciled to the finance screen (e.g. Sep/Oct/Nov gross revenue ₪127,328 / ₪137,790 / ₪58,265).
 
-## Companion analysis
-
-[`barbershop-analytics`](https://github.com/yammerjan/barbershop-analytics): Python + SQL notebook that analyses the same demo data (break-even, barber contribution, lead conversion with a permutation test, Monte Carlo forecast).
-
 ---
 Yam Merjan, Industrial Engineering and Management student.
